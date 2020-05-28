@@ -15,3 +15,6 @@ Cons:
 
 - High processing effort
 - Scheduled Timetable
+- Lack of synchronization
+- Stale information
+- Data inconsistencies
