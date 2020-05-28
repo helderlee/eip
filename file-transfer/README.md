@@ -13,7 +13,7 @@ Pros:
 
 Cons:
 
-- High processing effort
+- Expensive resource costs with processing
 - Scheduled Timetable
 - Lack of synchronization
 - Stale information
