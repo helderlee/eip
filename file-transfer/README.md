@@ -13,6 +13,7 @@ Pros:
 
 Cons:
 
+- Undefined data format
 - Expensive resource costs with processing
 - Scheduled Timetable
 - Lack of synchronization
