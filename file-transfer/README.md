@@ -13,9 +13,9 @@ Pros:
 
 Cons:
 
-- Undefined data format
+- Undefined data format may cause semantic dissonance
 - Expensive resource costs with processing
 - Scheduled Timetable
-- Lack of synchronization
+- Lack of timeliness
 - Stale information
 - Data inconsistencies
