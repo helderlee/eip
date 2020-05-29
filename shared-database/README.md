@@ -1,21 +1,17 @@
-# File Transfer EIP
+# Shared Database EIP
 
 
 
 Pros:
 
-- Universal storage mechanism
-- Simplest approach
-- Integrators need no knowledge of the internals of an application
-- The different applications are quite nicely decoupled from each other
+- Rapid updates allow better consistencies
+- Defined data format avoids semantic dissonance
 
 
 
 Cons:
 
-- Undefined data format
-- Expensive resource costs with processing
-- Scheduled Timetable
-- Lack of synchronization
-- Stale information
-- Data inconsistencies
+- Suitable design
+- Severe political difficulties
+- Integrations limitation
+- Performance bottlenecks and deadlocks
