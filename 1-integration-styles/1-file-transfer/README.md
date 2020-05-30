@@ -19,3 +19,6 @@ Cons:
 - Lack of timeliness
 - Stale information
 - Data inconsistencies
+- Business processes rules is not taken into account across different applications
+- Allows an application to react to changes as it processes the file, but the process is delayed
+- Share data, not functionality
