@@ -7,7 +7,7 @@ Pros:
 - Does not require both systems to be up and ready at the same time
 - High cohesion and loose coupling
 - Separate applications can have quite different conceptual models
-- Rapid responses
+- Could achieve rapid responses
 
 
 
